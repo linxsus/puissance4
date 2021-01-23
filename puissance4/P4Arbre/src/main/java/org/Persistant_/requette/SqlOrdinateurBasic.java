@@ -14,13 +14,13 @@ import org.Persistant_.ExecuteSql.ExecuteSqlSelect;
 /**
  * class pour la gestion des requettes sql d'un ordinateurBasic
  *
- * @author Xavier Gouraud
+ * @author Xavier Gouraud 
  *
  */
 public class SqlOrdinateurBasic {
 
 	/**
-	 * connexion a la base
+	 * connexion a la base de donnee
 	 */
 	private Connection cn;
 
